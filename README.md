@@ -20,7 +20,7 @@ in your web browser for source installation instructions.
 After installing Go, you need to first be inside your GOPATH(The directory where all your Go projects will be kept). Your GOPATH will be set automatically once you have Go installed. In your GOPATH, you will have three folders bin, pkg and src. In your src, paste a folder called gorilla-mux-golang, in it 
 
 ```sh
-cd gorilla-mux-golang
+cd Desktop/go-workspace/src/gorilla-mux
 ```
 
 ## Install
